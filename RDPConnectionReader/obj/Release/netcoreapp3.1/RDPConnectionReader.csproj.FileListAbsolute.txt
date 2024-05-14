@@ -1,0 +1,15 @@
+C:\Workarea\RDPConnectionReader\RDPConnectionReader\bin\Release\netcoreapp3.1\RDPConnectionReader.exe
+C:\Workarea\RDPConnectionReader\RDPConnectionReader\bin\Release\netcoreapp3.1\RDPConnectionReader.deps.json
+C:\Workarea\RDPConnectionReader\RDPConnectionReader\bin\Release\netcoreapp3.1\RDPConnectionReader.runtimeconfig.json
+C:\Workarea\RDPConnectionReader\RDPConnectionReader\bin\Release\netcoreapp3.1\RDPConnectionReader.runtimeconfig.dev.json
+C:\Workarea\RDPConnectionReader\RDPConnectionReader\bin\Release\netcoreapp3.1\RDPConnectionReader.dll
+C:\Workarea\RDPConnectionReader\RDPConnectionReader\bin\Release\netcoreapp3.1\RDPConnectionReader.pdb
+C:\Workarea\RDPConnectionReader\RDPConnectionReader\obj\Release\netcoreapp3.1\RDPConnectionReader.Form1.resources
+C:\Workarea\RDPConnectionReader\RDPConnectionReader\obj\Release\netcoreapp3.1\RDPConnectionReader.csproj.GenerateResource.cache
+C:\Workarea\RDPConnectionReader\RDPConnectionReader\obj\Release\netcoreapp3.1\RDPConnectionReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workarea\RDPConnectionReader\RDPConnectionReader\obj\Release\netcoreapp3.1\RDPConnectionReader.AssemblyInfoInputs.cache
+C:\Workarea\RDPConnectionReader\RDPConnectionReader\obj\Release\netcoreapp3.1\RDPConnectionReader.AssemblyInfo.cs
+C:\Workarea\RDPConnectionReader\RDPConnectionReader\obj\Release\netcoreapp3.1\RDPConnectionReader.csproj.CoreCompileInputs.cache
+C:\Workarea\RDPConnectionReader\RDPConnectionReader\obj\Release\netcoreapp3.1\RDPConnectionReader.dll
+C:\Workarea\RDPConnectionReader\RDPConnectionReader\obj\Release\netcoreapp3.1\RDPConnectionReader.pdb
+C:\Workarea\RDPConnectionReader\RDPConnectionReader\obj\Release\netcoreapp3.1\RDPConnectionReader.genruntimeconfig.cache
